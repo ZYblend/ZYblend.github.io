@@ -16,7 +16,7 @@ author: Yu(Abel) Zheng
 navbar-links:
   About Me: "aboutme"
   Project: "projects"
-  Author's home: "https://deanattali.com"
+  Paper: "papers"
 
 # --- Logo --- #
 
@@ -58,7 +58,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #   ORCID: “0000-0002-0894-6912”
-   google-scholar: “citations?user=dn6dKBUAAAAJ&hl=en&oi=sra”
+#  google-scholar: “citations?user=dn6dKBUAAAAJ&hl=en&oi=sra”
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
