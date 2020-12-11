@@ -3,7 +3,7 @@ layout: page
 title: Yu(Abel) Zheng
 ---
 ### Brief Intro
-I am a research assistant working with [Dr.Olugbenga Moses Anubi](https://scholar.google.com/citations?user=4AGpwF0AAAAJ&hl=en&oi=ao) at [Center for Adanced Power Systems] （https://www.caps.fsu.edu), Florida State university. I am working toward the Ph.D. degree in electrical and computer engineering. My research interest is on Attack-Resilient Control and Estimation for Cyber-Physical Systems (and autonomous sytem), and now he is putting his force on the $\ell_1$ norm-based Dynamic Observer design against False Data Injection Attacks (FDIAs).
+I am a research assistant working with [Dr.Olugbenga Moses Anubi](https://scholar.google.com/citations?user=4AGpwF0AAAAJ&hl=en&oi=ao) at [Center for Adanced Power Systems](https://www.caps.fsu.edu), Florida State university. I am working toward the Ph.D. degree in electrical and computer engineering. My research interest is on Attack-Resilient Control and Estimation for Cyber-Physical Systems (and autonomous sytem), and now he is putting his force on the L1 norm-based Dynamic Observer design against False Data Injection Attacks (FDIAs).
 
 ### Research Interests
 * Resilient Estimation
