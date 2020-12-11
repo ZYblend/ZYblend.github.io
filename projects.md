@@ -12,16 +12,16 @@ This is a collection of some personal projects I've worked on that are easily vi
 
 ## Ongoing Projects
 -------------------------------
-### Resilient Estimation
+### ```Resilient Estimation```
 
-### Imu Dead-reckoning
+### ```Imu Dead-reckoning```
 
 
 ## Past Projects
 -------------------------------
 ### ```Trajectory Tracking based on Image```
 
-### Secure Path-tracking Control for Non-holonomic WMR
+### ```Secure Path-tracking Control for Non-holonomic WMR```
 Nonholonomic wheeled mobile robots (WMRs) have attracted much attention in the past two decades due to its great mobility and the broad range of application. Due to the increasing dependence on IoT devices and wireless communication, the resulting tight coupling of computation, communication and physical components enables malicious agents to inject attacks via the sensors and actuators. <br>
 <img src="/assets/img/projects/DDWMR.png" width="400"/>
 
@@ -30,4 +30,4 @@ In this project, we design a secure path-tracking control scheme for WMR: asympt
 The simulation codes can be found at [my github](https://github.com/ZYblend/Resilient-path-tracking-control-for-WMR), the result is shown below: <br>
 <img src="/assets/img/projects/figure8.png" width="400"/> <img src="/assets/img/projects/Circle_tracking.png" width="450"/>
 
-### Emergency Control for AUV
+### ```Emergency Control for AUV```
