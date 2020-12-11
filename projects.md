@@ -8,6 +8,19 @@ comments: true
 carbonads: true
 ---
 
-This is a collection of some personal projects I've worked on that are easily viewable online.
+This is a collection of some personal projects I've worked on that are easily viewable online. 
 
----
+## Ongoing Projects
+-------------------------------
+# Resilient Estimation
+
+# Imu Dead-reckoning
+
+
+## Past Projects
+-------------------------------
+# Trajectory Tracking based on Image
+
+# Path-tracking Control for Non-holonomic WMR
+
+# Emergency Control for AUV
