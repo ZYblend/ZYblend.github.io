@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Personal Website
+title: Yu(Abel) Zheng
 
 # Your name to show in the footer
 author: Yu(Abel) Zheng
@@ -15,9 +15,7 @@ author: Yu(Abel) Zheng
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Project: "projects"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -46,7 +44,7 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
-  linkedin: “in/yu-zheng-b2a16615a/”
+#  linkedin: “in/yu-zheng-b2a16615a/”
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -59,8 +57,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-   ORCID: “0000-0002-0894-6912”
-   google-scholar: “citations?user=dn6dKBUAAAAJ&hl=en”
+#   ORCID: “0000-0002-0894-6912”
+#   google-scholar: “citations?user=dn6dKBUAAAAJ&hl=en”
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
