@@ -23,10 +23,11 @@ This is a collection of some personal projects I've worked on that are easily vi
 
 ### Secure Path-tracking Control for Non-holonomic WMR
 Nonholonomic wheeled mobile robots (WMRs) have attracted much attention in the past two decades due to its great mobility and the broad range of application. Due to the increasing dependence on IoT devices and wireless communication, the resulting tight coupling of computation, communication and physical components enables malicious agents to inject attacks via the sensors and actuators. <br>
-![][/assets/img/projects/DDWMR.png]
-In this project, we design a secure path-tracking control scheme for WMR: asymptotically stable path-tracking controller + attack-reilient Kalman Filter.
-![][/assets/img/projects/Path_tracking_WMR.png]
+![WMR image](/assets/img/projects/DDWMR.png =250x)
+
+In this project, we design a secure path-tracking control scheme for WMR: asymptotically stable path-tracking controller + attack-reilient Kalman Filter.<br>
+![image](/assets/img/projects/Path_tracking_WMR.png)
 The simulation codes can be found at [my github](https://github.com/ZYblend/Resilient-path-tracking-control-for-WMR), the result is shown below:
-![][/assets/img/projects/figure8.png] ![][/assets/img/projects/Circle_tracking.png]
+![image](/assets/img/projects/figure8.png) ![image](/assets/img/projects/Circle_tracking.png)
 
 ### Emergency Control for AUV
