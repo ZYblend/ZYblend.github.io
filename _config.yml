@@ -39,14 +39,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "yz19b@fsu.edu"
+  email: "yz19b@fsu.edu"
 #  facebook: deanattali
-  github: https://github.com/ZYblend
+  github: “https://github.com/ZYblend”
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/yu-zheng-b2a16615a/
+  linkedin: “https://www.linkedin.com/in/yu-zheng-b2a16615a/”
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -59,8 +59,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-   ORCID: https://orcid.org/0000-0002-0894-6912
-   google-scholar: https://scholar.google.com/citations?user=dn6dKBUAAAAJ&hl=en
+   ORCID: “https://orcid.org/0000-0002-0894-6912”
+   google-scholar: “https://scholar.google.com/citations?user=dn6dKBUAAAAJ&hl=en”
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
