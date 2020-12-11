@@ -12,15 +12,15 @@ This is a collection of some personal projects I've worked on that are easily vi
 
 ## Ongoing Projects
 -------------------------------
-# Resilient Estimation
+### Resilient Estimation
 
-# Imu Dead-reckoning
+### Imu Dead-reckoning
 
 
 ## Past Projects
 -------------------------------
-# Trajectory Tracking based on Image
+### Trajectory Tracking based on Image
 
-# Path-tracking Control for Non-holonomic WMR
+### Path-tracking Control for Non-holonomic WMR
 
-# Emergency Control for AUV
+### Emergency Control for AUV
