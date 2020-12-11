@@ -15,8 +15,10 @@ author: Yu(Abel) Zheng
 
 navbar-links:
   About Me: "aboutme"
-  Project: "projects"
-  Paper: "https://scholar.google.com/citations?user=dn6dKBUAAAAJ&hl=en"
+  Research: 
+          - Project: "projects"
+          - Paper: "https://scholar.google.com/citations?user=dn6dKBUAAAAJ&hl=en"
+  Working: "work"
 
 # --- Logo --- #
 
