@@ -25,4 +25,3 @@ cover-img:
 * Work and study at Florida State University 1 year! (2020.08.21)
 * First conference [paper](https://arxiv.org/abs/2009.03414) in my PhD program was accepted by ASME DSCC2020! (2020.06.09)
 
-
