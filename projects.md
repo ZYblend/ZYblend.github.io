@@ -26,7 +26,8 @@ Nonholonomic wheeled mobile robots (WMRs) have attracted much attention in the p
 <img src="/assets/img/projects/DDWMR.png" width="400"/>
 
 In this project, we design a secure path-tracking control scheme for WMR: asymptotically stable path-tracking controller + attack-reilient unscented Kalman Filter.<br>
-<img src="/assets/img/projects/Path_tracking_WMR.png" width="500"/>
+<img src="/assets/img/projects/Path_tracking_WMR.png" width="400"/>
+
 The simulation codes can be found at [my github](https://github.com/ZYblend/Resilient-path-tracking-control-for-WMR), the result is shown below: <br>
 <img src="/assets/img/projects/figure8.png" width="400"/> <img src="/assets/img/projects/Circle_tracking.png" width="450"/>
 
