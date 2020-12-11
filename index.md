@@ -18,8 +18,8 @@ cover-img:
 
 ## News
 * Go skiing! (2020.12.20)
-* Submite [AI-track-at-sea](https://www.challenge.gov/challenge/AI-tracks-at-sea/) Competition.(2020.12.02)
-* invited as delegate reviewer for [IEEE 2021 ACC](https://acc2021.a2c2.org/) (2020.10.19)
+* Submit [AI-track-at-sea](https://www.challenge.gov/challenge/AI-tracks-at-sea/) Competition.(2020.12.02)
+* Be invited as delegate reviewer for [IEEE 2021 ACC](https://acc2021.a2c2.org/) (2020.10.19)
 * Pass preliminary exam, become Ph.D. candidate in ECE! Keep fighting! (2020.09.18)
 * Present on vitual [ASME 2020 DSCC](https://event.asme.org/DSCC) (2020.09.16)
 * Work and study at Florida State University 1 year! (2020.08.21)
