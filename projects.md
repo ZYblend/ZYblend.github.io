@@ -13,13 +13,13 @@ This is a collection of some personal projects I've worked on that are easily vi
 ## Ongoing Projects
 -------------------------------
 ### ```Resilient Estimation```
--**Phase 1:** (Finished)
+- **Phase 1:** (Finished)
 1. Optimazition-based false data injection attacks (FDIAs) Design 
 2. Resilient L1 observer design and quasi-static stability analysis
 3. Related paper: 
--**Phase 2.1:** (Planned)
+- **Phase 2.1:** (Planned)
 GAN-based false data injection attacks (FDIAs) design
--**Phase 2.2:** (Ongoing)
+- **Phase 2.2:** (Ongoing)
 Stability analysis for moving-horizon L1 observer
 
 ### ```Imu Dead-reckoning```
@@ -53,3 +53,6 @@ The simulation codes can be found at [my github](https://github.com/ZYblend/Resi
 
 ### ```Emergency Control for AUV```
 
+**Related paper**: 
+- Zheng, Yu, et al. "A finite state machine based diagnostic expert system of large-scale autonomous unmanned submarine." 2018 IEEE 8th International Conference on Underwater System Technology: Theory and Applications (USYS). IEEE, 2018.
+- Wang, Wenjin, et al. "Research and Experiments on Submergence for Self-propelled Model with Positive Buoyancy." The 28th International Ocean and Polar Engineering Conference. International Society of Offshore and Polar Engineers, 2018.
