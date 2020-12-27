@@ -17,7 +17,8 @@ cover-img:
 ---
 
 ## News
-* Go skiing! (2020.12.20)
+* Merry Christmas! (2020.12.25)
+* Go skiing! (2020.12.20 - 2020.12.23)
 * Submit [AI-track-at-sea](https://www.challenge.gov/challenge/AI-tracks-at-sea/) Competition.(2020.12.02)
 * Be invited as delegate reviewer for [IEEE 2021 ACC](https://acc2021.a2c2.org/) (2020.10.19)
 * Pass preliminary exam, become Ph.D. candidate in ECE! Keep fighting! (2020.09.18)
