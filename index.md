@@ -17,6 +17,8 @@ cover-img:
 ---
 
 ## News
+* ACC paper "Attack-Resilient Weighted L1 Observer with Prior Pruning" has been accepted!(2021.01.24)
+* So proud for our Ai-track-at-sea team, won 2rd place in the competition! (2021.01.16)
 * Merry Christmas! (2020.12.25)
 * Go skiing! (2020.12.20 - 2020.12.23)
 * Submit [AI-track-at-sea](https://www.challenge.gov/challenge/AI-tracks-at-sea/) Competition.(2020.12.02)
