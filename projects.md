@@ -28,7 +28,7 @@ Stability analysis for moving-horizon L1 observer
 ## Past Projects
 -------------------------------
 ### ```Trajectory Tracking based on Image```
-This project is for [Ai-track-at-sea](https://www.challenge.gov/challenge/AI-tracks-at-sea/) competition. <br>
+This project is for [Ai-track-at-sea](https://www.challenge.gov/challenge/AI-tracks-at-sea/) competition. We won 2rd place in competition!<br>
 Radar-based automatic tracking systems have been a main tool for marine traffic localization, however, emitting radar provides poor cover against adversaries nearby. The development of AI and computer vision has provided a platform for rapid development of solutions for tracking marine traffic by using the passive sensing capability of readily available and inexpensive monocular cameras. <br>
 We develop a software: an AI-based computer vision system with capability of real-time tracking. It contains three parts: **Objective detection in image**, **Quadratic-learning camera transformation**, and **Data regression for smoothing**.
 <img src="/assets/img/projects/tracking_pipeline.png" width="700"/>
